@@ -1,0 +1,126 @@
+{
+    "cve_alerts": [
+        {
+            "ID": "CVE-1999-0095",
+            "Desc": "The debug command in Sendmail is enabled, allowing attackers to execute commands as root....",
+            "Published Date": "1988-10-01 04:00:00",
+            "Modified Date": "2025-04-03 01:03:51"
+        },
+        {
+            "ID": "CVE-1999-0082",
+            "Desc": "CWD ~root command in ftpd allows root access....",
+            "Published Date": "1988-11-11 05:00:00",
+            "Modified Date": "2025-04-03 01:03:51"
+        },
+        {
+            "ID": "CVE-1999-1471",
+            "Desc": "Buffer overflow in passwd in BSD based operating systems 4.3 and earlier allows local users to gain root privileges by specifying a long shell or GECO...",
+            "Published Date": "1989-01-01 05:00:00",
+            "Modified Date": "2025-04-03 01:03:51"
+        },
+        {
+            "ID": "CVE-1999-1122",
+            "Desc": "Vulnerability in restore in SunOS 4.0.3 and earlier allows local users to gain privileges....",
+            "Published Date": "1989-07-26 04:00:00",
+            "Modified Date": "2025-04-03 01:03:51"
+        },
+        {
+            "ID": "CVE-1999-1467",
+            "Desc": "Vulnerability in rcp on SunOS 4.0.x allows remote attackers from trusted hosts to execute arbitrary commands as root, possibly related to the configur...",
+            "Published Date": "1989-10-26 04:00:00",
+            "Modified Date": "2025-04-03 01:03:51"
+        },
+        {
+            "ID": "CVE-1999-1506",
+            "Desc": "Vulnerability in SMI Sendmail 4.0 and earlier, on SunOS up to 4.0.3, allows remote attackers to access user bin....",
+            "Published Date": "1990-01-29 05:00:00",
+            "Modified Date": "2025-04-03 01:03:51"
+        },
+        {
+            "ID": "CVE-1999-0084",
+            "Desc": "Certain NFS servers allow users to use mknod to gain privileges by creating a writable kmem device and setting the UID to 0....",
+            "Published Date": "1990-05-01 04:00:00",
+            "Modified Date": "2025-04-03 01:03:51"
+        },
+        {
+            "ID": "CVE-2000-0388",
+            "Desc": "Buffer overflow in FreeBSD libmytinfo library allows local users to execute commands via a long TERMCAP environmental variable....",
+            "Published Date": "1990-05-09 04:00:00",
+            "Modified Date": "2025-04-03 01:03:51"
+        },
+        {
+            "ID": "CVE-1999-0209",
+            "Desc": "The SunView (SunTools) selection_svc facility allows remote users to read files....",
+            "Published Date": "1990-08-14 04:00:00",
+            "Modified Date": "2025-04-03 01:03:51"
+        },
+        {
+            "ID": "CVE-1999-1198",
+            "Desc": "BuildDisk program on NeXT systems before 2.0 does not prompt users for the root password, which allows local users to gain root privileges....",
+            "Published Date": "1990-10-03 04:00:00",
+            "Modified Date": "2025-04-03 01:03:51"
+        }
+    ],
+    "news": [
+        {
+            "Title": "U.S. Sanctions Cloud Provider \u2018Funnull\u2019 as Top Source of \u2018Pig Butchering\u2019 Scams",
+            "Published Date": "2025-05-30 01:55:16",
+            "Source": "Krebs on Security",
+            "Link": "https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/"
+        },
+        {
+            "Title": "Pakistan Arrests 21 in \u2018Heartsender\u2019 Malware Service",
+            "Published Date": "2025-05-28 17:41:47",
+            "Source": "Krebs on Security",
+            "Link": "https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/"
+        },
+        {
+            "Title": "Oops: DanaBot Malware Devs Infected Their Own PCs",
+            "Published Date": "2025-05-22 21:53:21",
+            "Source": "Krebs on Security",
+            "Link": "https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/"
+        },
+        {
+            "Title": "KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS",
+            "Published Date": "2025-05-20 21:30:30",
+            "Source": "Krebs on Security",
+            "Link": "https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/"
+        },
+        {
+            "Title": "Breachforums Boss to Pay $700k in Healthcare Breach",
+            "Published Date": "2025-05-15 19:56:51",
+            "Source": "Krebs on Security",
+            "Link": "https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/"
+        },
+        {
+            "Title": "Patch Tuesday, May 2025 Edition",
+            "Published Date": "2025-05-14 11:57:48",
+            "Source": "Krebs on Security",
+            "Link": "https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/"
+        },
+        {
+            "Title": "Pakistani Firm Shipped Fentanyl Analogs, Scams to US",
+            "Published Date": "2025-05-07 22:22:48",
+            "Source": "Krebs on Security",
+            "Link": "https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/"
+        },
+        {
+            "Title": "xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs",
+            "Published Date": "2025-05-02 00:52:00",
+            "Source": "Krebs on Security",
+            "Link": "https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/"
+        },
+        {
+            "Title": "Alleged \u2018Scattered Spider\u2019 Member Extradited to U.S.",
+            "Published Date": "2025-04-30 21:54:59",
+            "Source": "Krebs on Security",
+            "Link": "https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/"
+        },
+        {
+            "Title": "DOGE Worker\u2019s Code Supports NLRB Whistleblower",
+            "Published Date": "2025-04-23 20:45:04",
+            "Source": "Krebs on Security",
+            "Link": "https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/"
+        }
+    ]
+}
