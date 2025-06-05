@@ -86,7 +86,7 @@ The tool aims to provide a reliable alternative to subscribing to multiple, ofte
 
 🌍 Open Source Community: Extend functionality with contributors
 
-[![Zentivox Demo](images/)](https://youtu.be/RhG7BuKjEtk?si=l_eauKo_ioByM_b9 "Watch the Zentivox Demo")
+[![Zentivox Demo](Thumbnail.png)](https://youtu.be/RhG7BuKjEtk?si=l_eauKo_ioByM_b9 "Watch the Zentivox Demo")
 
 ## 🤝 Contributing
 
