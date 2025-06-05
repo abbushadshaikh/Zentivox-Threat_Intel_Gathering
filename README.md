@@ -21,7 +21,26 @@ The tool aims to provide a reliable alternative to subscribing to multiple, ofte
 
 ' python Zentivox.py '
 
-#### OR you can Download Standalone Desktop Application for Windows and Linux if don't want manually to install.
+## 📥 Download Standalone Versions
+
+🐧 Linux (x86_64)
+
+   [Download Zentivox for Linux](https://github.com/abbushadshaikh/Zentivox-Threat_Intel_Gathering/releases/download/v1.0.0/Zentivox)
+
+   ✅ Download: Zentivox
+
+   🧾 Usage:
+       chmod +x Zentivox , then run by typing ./Zentivox
+       
+🪟 Windows (64-bit)
+
+   [Download Zentivox for Windows](https://github.com/abbushadshaikh/Zentivox-Threat_Intel_Gathering/releases/download/v1.0.0/Zentivox.exe)
+
+   ✅ Download: Zentivox.exe
+
+   🧾 Usage: Double-click to launch. GUI opens instantly.
+
+   🔐 Tip: If flagged by antivirus, add it to the allowlist (it uses web requests for CVE/news feeds).
 
 
 ## 🛠️ Technologies Used:
