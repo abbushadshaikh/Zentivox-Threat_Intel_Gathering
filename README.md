@@ -7,6 +7,18 @@ The tool aims to provide a reliable alternative to subscribing to multiple, ofte
 
 **Zentivox solves this** by consolidating CVE alerts and cyber news in one dashboard—simple, efficient, and fast.
 
+## 📚 Table of Contents
+
+- [Getting Started](#-getting-started)
+- [Download Standalone Versions](#-download-standalone-versions)
+- [Technologies Used](#️-technologies-used)
+- [Features](#-features)
+- [Target Users](#-target-users)
+- [Future Scope](#-future-scope)
+- [Zentivox Demo Video](#zentivox-demo-video)
+- [Contributing](#-contributing)
+
+
 ## 🚀 Getting Started
 
 ### 🔧 Prerequisites
