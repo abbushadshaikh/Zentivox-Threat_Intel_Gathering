@@ -70,19 +70,24 @@ The tool aims to provide a reliable alternative to subscribing to multiple, ofte
 ---
 
 
-📈 Future Scope
+## 📈 Future Scope
 
 🌐 Global Feeds: Include more CERT, ISAC, and dark web sources
+
 ⚠️ Priority Alerts: Zero-day/high-severity CVE flagging
+
 📱 Mobile App: Real-time push notifications on phones
+
 🤖 AI Integration: News summarization & threat correlation
+
 🔄 Tool Integration: Link with Nmap, Nessus, or scanners
+
 🧑‍🤝‍🧑 Team Collaboration: Shared dashboards, exportable alerts
+
 🌍 Open Source Community: Extend functionality with contributors
 
 
-
-🤝 Contributing
+## 🤝 Contributing
 
 Welcome to feedback, ideas, and PRs! Help me to make Zentivox a strong open-source cyber tool.
 
