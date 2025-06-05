@@ -113,3 +113,6 @@ The tool aims to provide a reliable alternative to subscribing to multiple, ofte
 
 Welcome to feedback, ideas, and PRs! Help me to make Zentivox a strong open-source cyber tool.
 
+
+
+🛡️ Stay Informed. Stay Safe. Stay Ahead with Zentivox.
